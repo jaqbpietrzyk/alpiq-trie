@@ -1,0 +1,8 @@
+= Suggestions Doc
+
+.paged request
+include::{snippets}/suggestion2/http-request.adoc[]
+include::{snippets}/suggestion2/request-parameters.adoc[]
+
+.response
+include::{snippets}/suggestion2/http-response.adoc[]
